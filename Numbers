@@ -1,0 +1,9 @@
+public class Main
+{
+	public static void main(String[] args) {
+		for (int num = 1; num <= 400; num++) {
+		    int c = num * 13;
+		    System.out.print(c + ", ");
+		} 
+	}
+}
